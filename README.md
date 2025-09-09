@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aaryaman23
+- 👋 Hi, I’m Aaryaman Bahale
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning Computer Science Engineering 
 - 😄 Pronouns: He/Him
